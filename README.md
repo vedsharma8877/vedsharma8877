@@ -35,7 +35,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I watch web-series, movies and read books.
 
+-  :page_facing_up: My resume: [![Resume Badge](https://img.shields.io/badge/-Resume-green?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/1t4J2KHl5ACAFONcYU2dBVdfUpSX-6LEa/view?usp=sharing)
+  
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VedSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedsharma8877/) [![Gmail Badge](https://img.shields.io/badge/-VedSharma-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=vedsharma8877@gmail.com&tf=1)
+
 
 ---
 
