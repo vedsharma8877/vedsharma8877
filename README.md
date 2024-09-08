@@ -29,15 +29,15 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working at Sigma Infosolutions Ltd.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Sigma Infosolutions Ltd.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope:  I work as a software engineer, contributing to both the front-end and back-end of web application development.
   
-- :seedling: I'm currently learning python backend frameworks and advance data structures.
+- :seedling:  I’m currently learning AWS and improving my data structure and algorithm skills.
 
-- :zap: In my free time, I watch web-series, movies and read books.
+- :zap: In my free time, I enjoy watching web series and movies and reading books.
 
--  :page_facing_up: My resume: [![Resume Badge](https://img.shields.io/badge/-Resume-green?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/1t4J2KHl5ACAFONcYU2dBVdfUpSX-6LEa/view?usp=sharing)
+-  :page_facing_up: My resume: [![Resume Badge](https://img.shields.io/badge/-Resume-green?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/1zUk8gSjqQtx5KWi_889s9jQH0lZq4rH3/view?usp=sharing)
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VedSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedsharma8877/) [![Gmail Badge](https://img.shields.io/badge/-VedSharma-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=vedsharma8877@gmail.com&tf=1)
 
@@ -47,17 +47,24 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <!-- React -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+<!-- Frontend -->
+<!-- HTML -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>
 
-<!-- Redux -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
+<!-- CSS -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>
 
 <!-- JavaScript -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 
-<!-- GraphQL -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>
+<!-- TypeScript -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+
+<!-- React -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+
+<!-- Redux -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
 
 <!-- Material UI -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
@@ -65,26 +72,54 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- TailwindCSS -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>
 
-<!-- TypeScript -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+<!-- Backend -->
+<!-- Node.js -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
 
-<!-- HTML -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>
+<!-- Express -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>
 
-<!-- CSS -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>
+<!-- GraphQL -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>
 
-<!-- Python -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
+<!-- Databases -->
+<!-- MongoDB -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 
-<!-- Django -->
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" alt="Django" width="40" height="40"/>
+<!-- SQL -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>
 
-<!-- FastAPI -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
+<!-- DevOps -->
+<!-- Docker -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
 
 <!-- AWS -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+
+<!-- Azure Data Factory -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure Data Factory" alt="Azure Data Factory" width="40" height="40"/>
+
+<!-- Version Control & Collaboration -->
+<!-- Git -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+
+<!-- GitHub -->
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" alt="GitHub" width="40" height="40"/>
+
+
+<!-- Bitbucket -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>
+
+<!-- Tools -->
+<!-- VS Code -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
+
+<!-- Jira -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
+
+<!-- Languages -->
+<!-- Python -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
 
 <!-- Ruby -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>
@@ -98,35 +133,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- C++ -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
 
-<!-- Bitbucket -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>
-
-<!-- Git -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-
-<!-- GitHub -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-
-<!-- VS Code -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
-
-<!-- Jira -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
-
+<!-- Operating Systems -->
 <!-- Linux -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-
-<!-- Azure Data Factory -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure Data Factory" alt="Azure Data Factory" width="40" height="40"/>
-
-<!-- SQL -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>
-
-<!-- MongoDB -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-
-<!-- Docker -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
 
 </div>
 
