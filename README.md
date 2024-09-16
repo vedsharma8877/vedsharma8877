@@ -147,3 +147,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedsharma8877&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/vedsharma8877?ext=heatmap)
+
