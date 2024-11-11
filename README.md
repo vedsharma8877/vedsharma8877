@@ -31,13 +31,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Sigma Infosolutions Ltd.
 
-- :telescope:  I work as a software engineer, contributing to both the front-end and back-end of web application development.
+- :telescope:  I am a software engineer who contributes to the front-end and back-end development of web applications.
   
-- :seedling:  I’m currently learning AWS and improving my data structure and algorithm skills.
+- :seedling:  I’m learning AWS and improving my data structure and algorithm skills.
 
-- :zap: In my free time, I enjoy watching web series and movies and reading books.
+- :zap: I enjoy watching web series and movies and reading books in my free time.
 
--  :page_facing_up: My resume: [![Resume Badge](https://img.shields.io/badge/-Resume-green?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/1zUk8gSjqQtx5KWi_889s9jQH0lZq4rH3/view?usp=sharing)
+-  :page_facing_up: My resume: [![Resume Badge](https://img.shields.io/badge/-Resume-green?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/1R8zPT7B8-CLCWQ-bBkygaH53PIAAJgeY/view?usp=sharing)
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VedSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedsharma8877/) [![Gmail Badge](https://img.shields.io/badge/-VedSharma-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=vedsharma8877@gmail.com&tf=1)
 
@@ -136,6 +136,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- Operating Systems -->
 <!-- Linux -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40" height="40"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original.svg" title="Kibana" alt="Kibana" width="40" height="40"/>
 
 </div>
 
