@@ -31,13 +31,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Sigma Infosolutions Ltd.
 
-- :telescope:  I am a software engineer who contributes to the front-end and back-end development of web applications.
+- :telescope:  I'm a software engineer contributing to web application's front-end and back-end development.
   
-- :seedling:  I’m learning AWS and improving my data structure and algorithm skills.
+- :seedling:  I'm learning AWS and improving my data structure and algorithm skills.
 
 - :zap: I enjoy watching web series and movies and reading books in my free time.
 
--  :page_facing_up: My resume: [![Resume Badge](https://img.shields.io/badge/-Resume-green?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/1R8zPT7B8-CLCWQ-bBkygaH53PIAAJgeY/view?usp=sharing)
+-  :page_facing_up: My resume: [![Resume Badge](https://img.shields.io/badge/-Resume-green?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/1wgTl7IdpIl4xfxm7kGGKpHaGLCRHdQss/view?usp=drive_link)
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VedSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedsharma8877/) [![Gmail Badge](https://img.shields.io/badge/-VedSharma-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=vedsharma8877@gmail.com&tf=1)
 
