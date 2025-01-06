@@ -37,9 +37,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: I enjoy watching web series and movies and reading books in my free time.
 
--  :page_facing_up: My resume: [![Resume Badge](https://img.shields.io/badge/-Resume-green?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/1wgTl7IdpIl4xfxm7kGGKpHaGLCRHdQss/view?usp=drive_link)
+- :page_facing_up: My Resume: [![Resume Badge](https://img.shields.io/badge/-Resume-green?style=flat&logo=resume&logoColor=white)](https://drive.google.com/file/d/1wgTl7IdpIl4xfxm7kGGKpHaGLCRHdQss/view?usp=sharing)  
+
+- :briefcase: My Portfolio: [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-purple?style=flat&logo=web&logoColor=white)](https://vedsharma.netlify.app/)
   
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VedSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedsharma8877/) [![Gmail Badge](https://img.shields.io/badge/-VedSharma-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=vedsharma8877@gmail.com&tf=1)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VedSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedsharma8877/) [![Gmail Badge](https://img.shields.io/badge/-VedSharma-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/?view=cm&fs=1&to=vedsharma8877@gmail.com&tf=1)
 
 
 ---
